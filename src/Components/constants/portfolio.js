@@ -1,5 +1,5 @@
 import imgfinder from "../../assets/portfolio/imagefinder.webp";
-import portfolio from "../../assets/portfolio/portfolio.png";
+import portfolio from "../../assets/portfolio/portfolio.webp";
 import ccsuresult from "../../assets/portfolio/ccsuresult.png";
 import namjap from "../../assets/portfolio/naamjap.webp";
 import whatsapp from "../../assets/portfolio/whatsapp.png";
