@@ -108,8 +108,8 @@ const Home = () => {
             <div className="w-full h-full rounded-full border-4 border-cyan-500/30 dark:border-cyan-600/30 flex items-center justify-center glowing-image">
               <img
                 src={heroImage}
-                alt="Ankita Mishra Profile"
-                className="w-[94%] h-[94%] rounded-full object-cover shadow-xl"
+                alt="Nilesh Singh Profile"
+                className="w-[100%] h-[100%] rounded-full object-cover shadow-xl object-[center_TOP]"
               />
             </div>
 

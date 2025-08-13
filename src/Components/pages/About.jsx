@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
     return(
-        <div name="about" className="w-full  bg-gradient-to-b bg-white text-black dark:bg-black dark:text-white  py-20 relative overflow-hidden">
+        <div name="about" className="w-full  bg-gradient-to-b bg-white text-black dark:bg-black dark:text-white  py-20 pb-8 relative overflow-hidden">
             {/* 3D background */}
             <div className="absolute top-0 left-0 w-full h-full bg-gray-900 bg-opacity-30 z-0 animate-rotate3d"></div>
 
