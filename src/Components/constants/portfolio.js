@@ -6,7 +6,7 @@ import whatsapp from "../../assets/portfolio/whatsapp.png";
 import nspay from '../../assets/portfolio/nspay.webp';
 import weather from '../../assets/portfolio/weather.webp';
 import nsplaner from '../../assets/portfolio/nspay.webp';
-import githubprofilefinder from '../../assets/portfolio/imagefinder.webpg';
+import githubprofilefinder from '../../assets/portfolio/imagefinder.webp';
 import objectdetection from '../../assets/portfolio/objectdetection.webp';
 
 export const ports = [
